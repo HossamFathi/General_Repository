@@ -1,4 +1,4 @@
-# General_Repository
+# General Repository
 General  Repository can add  , update   , Get  specific Entity  , Get all Entities  for all Database Table  in  the  same Class  with it's interface  
 
 by Hossam Fathi :  .Net developer 
