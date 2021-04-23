@@ -5,5 +5,5 @@ by Hossam Fathi :  .Net developer
 
 To  Contact : 
     phone :  01120198703 
-    emial :  hosamfathi108@gmail.com
+    email :  hosamfathi108@gmail.com
     
